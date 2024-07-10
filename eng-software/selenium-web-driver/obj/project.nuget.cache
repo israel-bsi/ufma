@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iugh2xv779d81d1ZXhVQ4rhvZcV4YVmTzb62aLkyPqcBu89SmraQrivSTvy0vm8HFTJpcbLWUNnIYiAbkcKGPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\selenium-web-driver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maste\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

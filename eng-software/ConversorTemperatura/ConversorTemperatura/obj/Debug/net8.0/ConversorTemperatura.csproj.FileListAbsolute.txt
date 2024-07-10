@@ -1,0 +1,14 @@
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0\ConversorTemperatura.exe
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0\ConversorTemperatura.deps.json
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0\ConversorTemperatura.runtimeconfig.json
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0\ConversorTemperatura.dll
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\net8.0\ConversorTemperatura.pdb
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.AssemblyInfo.cs
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.dll
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\refint\ConversorTemperatura.dll
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.pdb
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ConversorTemperatura.genruntimeconfig.cache
+C:\Users\maste\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\net8.0\ref\ConversorTemperatura.dll

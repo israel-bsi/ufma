@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF764A44-E3D0-473F-BC3F-1BC1457ED97B}|selenium-web-driver.csproj|c:\\estudos dev\\ufma\\eng-software\\selenium-web-driver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF764A44-E3D0-473F-BC3F-1BC1457ED97B}|selenium-web-driver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF764A44-E3D0-473F-BC3F-1BC1457ED97B}|selenium-web-driver.csproj|c:\\estudos dev\\ufma\\eng-software\\selenium-web-driver\\selenium-web-driver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF764A44-E3D0-473F-BC3F-1BC1457ED97B}|selenium-web-driver.csproj|solutionrelative:selenium-web-driver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "selenium-web-driver",
+              "DocumentMoniker": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\selenium-web-driver.csproj",
+              "RelativeDocumentMoniker": "selenium-web-driver.csproj",
+              "ToolTip": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\selenium-web-driver.csproj",
+              "RelativeToolTip": "selenium-web-driver.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T01:19:09.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Estudos Dev\\ufma\\eng-software\\selenium-web-driver\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:05:22.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
