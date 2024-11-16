@@ -1,2 +1,4 @@
 ### Repositório contendo atividades e provas
-### Engenharia da computação
+
+#### Bacharelado Interdisciplinar em Ciência e Tecnologia
+#### Engenharia da computação
