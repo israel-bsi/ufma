@@ -1,7 +1,7 @@
 | Disciplina:  Sistemas Operacionais | Profa. Alana Oliveira |
 |:--------------------|:------------:|
 | Nome do(a) aluno(a):               | Israel Barbosa Silva  |
-| Data:                              | 05/07/2025            |
+| Data:                              | 06/07/2025            |
 
 
 #### Descrição do Ambiente Utilizado
@@ -14,7 +14,7 @@ A distribuição Linux utilizada foi o Ubuntu 22.04 LTS.
 
 - **Outros detalhes relevantes:** <br>
 A atividade foi realizada no PowerShell do Windows, utilizando o WSL para acessar o ambiente Linux <br>
-O Visual Studio Code em conjunto com o Jupyter utilizando o formato Markdown foi utilizado para a criação deste relatório.
+Este relatório foi elaborado em Markdown através do Visual Studio Code e convertido para PDF utilizando a extensão Markdown PDF.
 
 ![alt text](image.png)
 
@@ -78,3 +78,7 @@ Magali:
 - Para isso, foi utilizado o comando `sudo chmod o+x <diretorio>`.
 
 ![alt text](image-14.png)
+
+
+- Reflexão Final:
+Em um ambiente onde os arquivos são restritos a usuários específicos, é importante garantir que as permissões de acesso sejam configuradas corretamente. Isso não apenas protege os dados, mas também garante que os usuários possam acessar os arquivos necessários para suas atividades. No mundo coorporativo, essa prática é essencial para manter a segurança e a privacidade das informações. A atividade demonstrou a importância de entender e aplicar as permissões de arquivos no Linux e em qualquer sistema operacional, uma habilidade valiosa para qualquer profissional de TI.
