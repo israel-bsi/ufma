@@ -1,0 +1,1 @@
+https://profsergiocosta.notion.site/Introdu-o-ao-Clojure-277cce9750938042ab67ffc5e2c1c2d4
